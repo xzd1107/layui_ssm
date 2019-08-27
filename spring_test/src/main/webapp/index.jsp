@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+112121
 	<form action="type/de.action" method="post">
 		<input type="hidden" name="_method" value="DELETE">
 		<input type="submit" value="提交">
