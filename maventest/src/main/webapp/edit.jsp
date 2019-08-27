@@ -10,7 +10,7 @@
 <script src="js/jquery-2.2.4.min.js" ></script>
 <script type="text/javascript" src="js/my.js"></script>
 
-<title>大家好11</title>
+<title>大家好1221</title>
 </head>
 <body>
 <style>
